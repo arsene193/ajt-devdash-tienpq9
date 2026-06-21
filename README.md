@@ -1,21 +1,25 @@
-<img width="1786" height="645" alt="image" src="https://github.com/user-attachments/assets/79cfaa8b-8bd8-445b-9630-8f94536c6178" />
+<img width="1749" height="864" alt="image" src="https://github.com/user-attachments/assets/d71f7289-a2a7-4fd1-8f35-06b15d2f7a11" />
+
 
 # DevDash — Typed Async Dashboard
 
 DevDash is a single-page data dashboard built using vanilla TypeScript and Bootstrap 5. The application fetches real-time product data asynchronously, transforms datasets on the client side using higher-order functions, and leverages advanced TypeScript features such as discriminated unions, generic constraints, and utility types for robust compile-time safety.
 
-- **Demo URL:** [https://fef-shoplite-tienpq9.vercel.app](https://fef-shoplite-tienpq9.vercel.app/)
-- **GitHub Repository:** [https://github.com/arsene193/fef-shoplite-tienpq9](https://github.com/arsene193/fef-shoplite-tienpq9)
+- **Demo URL:** [https://ajt-devdash-tienpq9.vercel.app](https://ajt-devdash-tienpq9.vercel.app)
+- **GitHub Repository:** [https://github.com/arsene193/ajt-devdash-tienpq9](https://github.com/arsene193/ajt-devdash-tienpq9)
 
 ## 📸 Screenshots
 - **Homepage:**
 
+<img width="1749" height="864" alt="image" src="https://github.com/user-attachments/assets/6cb5c254-c5e6-4121-870e-583dc73a195b" />
 
 - **List Products:**
+<img width="1743" height="866" alt="image" src="https://github.com/user-attachments/assets/b2e677e4-b9d2-49f7-9eed-e81bd1f66514" />
 
 
 - **Product Details:**
 
+<img width="1396" height="831" alt="image" src="https://github.com/user-attachments/assets/e2840e42-da67-41c6-8129-acc694a70fd2" />
 
 
 
@@ -25,11 +29,11 @@ To run this project locally on your machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/arsene193/fef-shoplite-tienpq9.git
+   git clone https://github.com/arsene193/ajt-devdash-tienpq9.git
    ```
 2. Navigate into the project folder:
    ```bash
-   cd fef-shoplite-tienpq9
+   cd ajt-devdash-tienpq9
    ```
 3. Install dependencies:
    ```bash
