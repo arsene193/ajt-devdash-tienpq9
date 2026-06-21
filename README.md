@@ -1,4 +1,4 @@
-<img width="1749" height="864" alt="image" src="https://github.com/user-attachments/assets/d71f7289-a2a7-4fd1-8f35-06b15d2f7a11" />
+<img width="1749" height="864" alt="image" src="https://github.com/user-attachments/assets/6cb5c254-c5e6-4121-870e-583dc73a195b" />
 
 
 # DevDash — Typed Async Dashboard
