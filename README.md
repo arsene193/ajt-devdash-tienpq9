@@ -3,7 +3,7 @@
 
 # DevDash — Typed Async Dashboard
 
-DevDash is a single-page data dashboard built using vanilla TypeScript and Bootstrap 5. The application fetches real-time product data asynchronously, transforms datasets on the client side using higher-order functions, and leverages advanced TypeScript features such as discriminated unions, generic constraints, and utility types for robust compile-time safety.
+DevDash is a single-page data dashboard built using vanilla TypeScript. The application fetches real-time product data asynchronously, transforms datasets on the client side using higher-order functions, and leverages advanced TypeScript features such as discriminated unions, generic constraints, and utility types for robust compile-time safety.
 
 - **Demo URL:** [https://ajt-devdash-tienpq9.vercel.app](https://ajt-devdash-tienpq9.vercel.app)
 - **GitHub Repository:** [https://github.com/arsene193/ajt-devdash-tienpq9](https://github.com/arsene193/ajt-devdash-tienpq9)
